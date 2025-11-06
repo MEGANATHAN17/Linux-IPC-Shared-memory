@@ -137,6 +137,7 @@ int main() {
 
 
 ## OUTPUT
+<img width="383" height="314" alt="Screenshot 2025-11-06 152133" src="https://github.com/user-attachments/assets/b316d231-0600-437b-a775-d0bc9d9d54df" />
 
 
 # RESULT:
